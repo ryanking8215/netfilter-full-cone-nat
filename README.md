@@ -1,4 +1,11 @@
+My Edition
+===========
+Supports for old version of iptables. Built with iptables v1.4.4 successfully.
+Please reference the Macro "ENABLE_COMPATIBLE_WITH_OLD_IPTABLES".
 
+
+Introduce
+==========
 Implementation of RFC3489-compatible full cone SNAT.
 
 Assuming eth0 is external interface:
